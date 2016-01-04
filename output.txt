@@ -1,0 +1,3125 @@
+Quelle annee voulez vous commencer le test : Quelle annee voulez vous terminer le test : a -> 1
+à -> 1
+2 words found in 1 
+
+ça -> 3
+çà -> 3
+2 words found in 3 
+
+baba -> 4
+1 words found in 4 
+
+bac -> 6
+cab -> 6
+fa -> 6
+3 words found in 6 
+
+ah -> 8
+ha -> 8
+2 words found in 8 
+
+ai -> 9
+aï -> 9
+caca -> 9
+cc -> 9
+4 words found in 9 
+
+béa -> 10
+1 words found in 10 
+
+la -> 12
+là -> 12
+2 words found in 12 
+
+ma -> 13
+1 words found in 13 
+
+an -> 14
+ana -> 14
+na -> 14
+3 words found in 14 
+
+ace -> 15
+ce -> 15
+2 words found in 15 
+
+bah -> 16
+dada -> 16
+2 words found in 16 
+
+ara -> 18
+bai -> 18
+cacaba -> 18
+cf -> 18
+ra -> 18
+5 words found in 18 
+
+as -> 19
+sa -> 19
+2 words found in 19 
+
+abbé -> 20
+de -> 20
+dé -> 20
+ta -> 20
+4 words found in 20 
+
+agaça -> 21
+au -> 21
+cg -> 21
+3 words found in 21 
+
+va -> 22
+1 words found in 22 
+
+axa -> 24
+bal -> 24
+ch -> 24
+fada -> 24
+4 words found in 24 
+
+y -> 25
+1 words found in 25 
+
+ci -> 27
+1 words found in 27 
+
+ban -> 28
+dg -> 28
+2 words found in 28 
+
+bec -> 30
+boa -> 30
+2 words found in 30 
+
+âge -> 35
+âgé -> 35
+2 words found in 35 
+
+aida -> 36
+bar -> 36
+cal -> 36
+cala -> 36
+cl -> 36
+dia -> 36
+lac -> 36
+laça -> 36
+8 words found in 36 
+
+bas -> 38
+basa -> 38
+2 words found in 38 
+
+cm -> 39
+mac -> 39
+2 words found in 39 
+
+abat -> 40
+bat -> 40
+bâta -> 40
+eh -> 40
+hé -> 40
+5 words found in 40 
+
+bu -> 42
+cana -> 42
+2 words found in 42 
+
+bava -> 44
+1 words found in 44 
+
+aie -> 45
+oc -> 45
+2 words found in 45 
+
+bâcha -> 48
+cap -> 48
+dl -> 48
+lad -> 48
+4 words found in 48 
+
+gag -> 49
+gaga -> 49
+2 words found in 49 
+
+baya -> 50
+bée -> 50
+je -> 50
+3 words found in 50 
+
+dam -> 52
+dama -> 52
+dm -> 52
+3 words found in 52 
+
+arc -> 54
+bic -> 54
+car -> 54
+fi -> 54
+fia -> 54
+if -> 54
+6 words found in 54 
+
+agha -> 56
+bagad -> 56
+dan -> 56
+nabab -> 56
+4 words found in 56 
+
+cas -> 57
+casa -> 57
+sac -> 57
+3 words found in 57 
+
+acta -> 60
+ale -> 60
+aléa -> 60
+bob -> 60
+cade -> 60
+céda -> 60
+deçà -> 60
+déca -> 60
+do -> 60
+le -> 60
+tac -> 60
+11 words found in 60 
+
+agi -> 63
+gai -> 63
+2 words found in 63 
+
+âme -> 65
+me -> 65
+2 words found in 65 
+
+cava -> 66
+1 words found in 66 
+
+âne -> 70
+en -> 70
+ne -> 70
+né -> 70
+4 words found in 70 
+
+alfa -> 72
+bâcla -> 72
+baffa -> 72
+barba -> 72
+cabala -> 72
+câbla -> 72
+cacha -> 72
+fla -> 72
+haï -> 72
+hi -> 72
+rada -> 72
+11 words found in 72 
+
+babas -> 76
+1 words found in 76 
+
+kg -> 77
+1 words found in 77 
+
+data -> 80
+1 words found in 80 
+
+acacia -> 81
+1 words found in 81 
+
+banc -> 84
+caban -> 84
+cabana -> 84
+du -> 84
+dû -> 84
+fana -> 84
+gal -> 84
+gala -> 84
+8 words found in 84 
+
+aéra -> 90
+are -> 90
+baie -> 90
+béai -> 90
+cacabe -> 90
+cacabé -> 90
+café -> 90
+face -> 90
+ré -> 90
+réa -> 90
+10 words found in 90 
+
+mg -> 91
+1 words found in 91 
+
+es -> 95
+ès -> 95
+se -> 95
+3 words found in 95 
+
+balada -> 96
+hala -> 96
+hâla -> 96
+paf -> 96
+4 words found in 96 
+
+aède -> 100
+baby -> 100
+bébé -> 100
+et -> 100
+te -> 100
+té -> 100
+6 words found in 100 
+
+agace -> 105
+agacé -> 105
+cage -> 105
+eau -> 105
+eu -> 105
+go -> 105
+6 words found in 105 
+
+ail -> 108
+cabra -> 108
+cadi -> 108
+caïd -> 108
+far -> 108
+il -> 108
+lai -> 108
+li -> 108
+lia -> 108
+9 words found in 108 
+
+Avé -> 110
+1 words found in 110 
+
+ahan -> 112
+ahana -> 112
+banda -> 112
+gap -> 112
+han -> 112
+5 words found in 112 
+
+bacs -> 114
+cabas -> 114
+cabs -> 114
+3 words found in 114 
+
+aima -> 117
+ami -> 117
+mai -> 117
+maïa -> 117
+mi -> 117
+5 words found in 117 
+
+axe -> 120
+axé -> 120
+baobab -> 120
+bel -> 120
+bêla -> 120
+blé -> 120
+ex -> 120
+fade -> 120
+fadé -> 120
+fat -> 120
+ho -> 120
+oh -> 120
+tabac -> 120
+13 words found in 120 
+
+cuba -> 126
+gara -> 126
+in -> 126
+ni -> 126
+nia -> 126
+ubac -> 126
+6 words found in 126 
+
+ph -> 128
+1 words found in 128 
+
+saga -> 133
+1 words found in 133 
+
+cacao -> 135
+coca -> 135
+2 words found in 135 
+
+adage -> 140
+ben -> 140
+gade -> 140
+gâta -> 140
+jan -> 140
+naja -> 140
+6 words found in 140 
+
+km -> 143
+1 words found in 143 
+
+alla -> 144
+api -> 144
+bard -> 144
+barda -> 144
+brada -> 144
+fâcha -> 144
+fax -> 144
+faxa -> 144
+pi -> 144
+9 words found in 144 
+
+fée -> 150
+1 words found in 150 
+
+gava -> 154
+kan -> 154
+2 words found in 154 
+
+lama -> 156
+mal -> 156
+2 words found in 156 
+
+hâta -> 160
+1 words found in 160 
+
+air -> 162
+aira -> 162
+aria -> 162
+cacabai -> 162
+crac -> 162
+fic -> 162
+ira -> 162
+rai -> 162
+raïa -> 162
+ri -> 162
+ria -> 162
+11 words found in 162 
+
+cake -> 165
+1 words found in 165 
+
+anal -> 168
+baud -> 168
+canada -> 168
+dauba -> 168
+gâcha -> 168
+galba -> 168
+hua -> 168
+7 words found in 168 
+
+ais -> 171
+aïs -> 171
+cacas -> 171
+saï -> 171
+si -> 171
+5 words found in 171 
+
+âgée -> 175
+gay -> 175
+2 words found in 175 
+
+hava -> 176
+1 words found in 176 
+
+accéda -> 180
+aide -> 180
+aidé -> 180
+ait -> 180
+arabe -> 180
+ber -> 180
+bof -> 180
+cale -> 180
+calé -> 180
+cela -> 180
+clé -> 180
+coda -> 180
+écala -> 180
+ide -> 180
+jar -> 180
+lace -> 180
+lacé -> 180
+raja -> 180
+tacca -> 180
+19 words found in 180 
+
+gamba -> 182
+gaz -> 182
+gaza -> 182
+man -> 182
+mana -> 182
+5 words found in 182 
+
+accu -> 189
+agaçai -> 189
+gaïac -> 189
+3 words found in 189 
+
+base -> 190
+basé -> 190
+béas -> 190
+jas -> 190
+jasa -> 190
+5 words found in 190 
+
+chah -> 192
+habla -> 192
+hacha -> 192
+lapa -> 192
+pal -> 192
+5 words found in 192 
+
+acmé -> 195
+came -> 195
+mec -> 195
+3 words found in 195 
+
+bang -> 196
+nana -> 196
+2 words found in 196 
+
+via -> 198
+1 words found in 198 
+
+bâte -> 200
+bâté -> 200
+béat -> 200
+béât -> 200
+bêta -> 200
+déjà -> 200
+ébat -> 200
+jade -> 200
+8 words found in 200 
+
+pâma -> 208
+1 words found in 208 
+
+acné -> 210
+aube -> 210
+beau -> 210
+bue -> 210
+cane -> 210
+cané -> 210
+goba -> 210
+nô -> 210
+on -> 210
+9 words found in 210 
+
+accabla -> 216
+axai -> 216
+bâfra -> 216
+bail -> 216
+balai -> 216
+bila -> 216
+cadra -> 216
+calf -> 216
+carda -> 216
+chai -> 216
+chia -> 216
+fadai -> 216
+flac -> 216
+hic -> 216
+râla -> 216
+xi -> 216
+16 words found in 216 
+
+bave -> 220
+bavé -> 220
+java -> 220
+3 words found in 220 
+
+pan -> 224
+pana -> 224
+2 words found in 224 
+
+las -> 228
+sala -> 228
+2 words found in 228 
+
+abîma -> 234
+arma -> 234
+rama -> 234
+3 words found in 234 
+
+bâche -> 240
+bâché -> 240
+bêcha -> 240
+cape -> 240
+capéa -> 240
+cep -> 240
+delà -> 240
+jabla -> 240
+lat -> 240
+tala -> 240
+10 words found in 240 
+
+kava -> 242
+1 words found in 242 
+
+ici -> 243
+1 words found in 243 
+
+gage -> 245
+gagé -> 245
+gagea -> 245
+3 words found in 245 
+
+amas -> 247
+ms -> 247
+2 words found in 247 
+
+baye -> 250
+bayé -> 250
+bey -> 250
+bye -> 250
+4 words found in 250 
+
+bain -> 252
+bina -> 252
+duc -> 252
+gaffa -> 252
+glaça -> 252
+lu -> 252
+nib -> 252
+7 words found in 252 
+
+kawa -> 253
+1 words found in 253 
+
+papa -> 256
+1 words found in 256 
+
+dame -> 260
+damé -> 260
+édam -> 260
+mat -> 260
+mât -> 260
+mata -> 260
+mâta -> 260
+7 words found in 260 
+
+aval -> 264
+avala -> 264
+kacha -> 264
+lava -> 264
+val -> 264
+5 words found in 264 
+
+ans -> 266
+sana -> 266
+2 words found in 266 
+
+aboi -> 270
+acéra -> 270
+acre -> 270
+âcre -> 270
+arec -> 270
+créa -> 270
+fie -> 270
+fié -> 270
+foc -> 270
+or -> 270
+race -> 270
+racé -> 270
+réac -> 270
+13 words found in 270 
+
+mu -> 273
+mû -> 273
+mua -> 273
+3 words found in 273 
+
+yak -> 275
+1 words found in 275 
+
+adné -> 280
+badge -> 280
+tan -> 280
+3 words found in 280 
+
+aces -> 285
+case -> 285
+casé -> 285
+ces -> 285
+os -> 285
+osa -> 285
+sec -> 285
+7 words found in 285 
+
+balla -> 288
+dard -> 288
+darda -> 288
+lâcha -> 288
+par -> 288
+para -> 288
+râpa -> 288
+7 words found in 288 
+
+bagua -> 294
+cagna -> 294
+nu -> 294
+nua -> 294
+un -> 294
+5 words found in 294 
+
+acte -> 300
+cédé -> 300
+cède -> 300
+cet -> 300
+etc -> 300
+job -> 300
+laya -> 300
+ode -> 300
+ôta -> 300
+9 words found in 300 
+
+dadas -> 304
+pas -> 304
+sapa -> 304
+3 words found in 304 
+
+van -> 308
+1 words found in 308 
+
+ambla -> 312
+blâma -> 312
+hamac -> 312
+Mach -> 312
+mâcha -> 312
+max -> 312
+6 words found in 312 
+
+écu -> 315
+gaie -> 315
+geai -> 315
+ou -> 315
+où -> 315
+5 words found in 315 
+
+bath -> 320
+dép -> 320
+pat -> 320
+pâta -> 320
+tapa -> 320
+5 words found in 320 
+
+abri -> 324
+aidai -> 324
+baccara -> 324
+bibi -> 324
+brai -> 324
+calai -> 324
+cil -> 324
+frac -> 324
+laçai -> 324
+laïc -> 324
+10 words found in 324 
+
+ème -> 325
+maya -> 325
+2 words found in 325 
+
+avec -> 330
+cave -> 330
+cavé -> 330
+jack -> 330
+4 words found in 330 
+
+banal -> 336
+pu -> 336
+pua -> 336
+3 words found in 336 
+
+aras -> 342
+arasa -> 342
+ars -> 342
+bais -> 342
+baisa -> 342
+basai -> 342
+bis -> 342
+bisa -> 342
+cacabas -> 342
+isba -> 342
+ras -> 342
+rasa -> 342
+12 words found in 342 
+
+née -> 350
+1 words found in 350 
+
+mica -> 351
+1 words found in 351 
+
+pava -> 352
+1 words found in 352 
+
+art -> 360
+bâcle -> 360
+bâclé -> 360
+baffe -> 360
+baffé -> 360
+barbe -> 360
+barbé -> 360
+bâtai -> 360
+bâti -> 360
+bide -> 360
+bit -> 360
+bita -> 360
+bol -> 360
+cabale -> 360
+cabalé -> 360
+câble -> 360
+câblé -> 360
+cacabât -> 360
+cache -> 360
+caché -> 360
+cafta -> 360
+der -> 360
+ébarba -> 360
+écacha -> 360
+façade -> 360
+fado -> 360
+féal -> 360
+fêla -> 360
+haie -> 360
+haïe -> 360
+hie -> 360
+lob -> 360
+loba -> 360
+rade -> 360
+radé -> 360
+rat -> 360
+rata -> 360
+rebab -> 360
+tara -> 360
+39 words found in 360 
+
+sas -> 361
+1 words found in 361 
+
+aura -> 378
+canai -> 378
+fig -> 378
+inca -> 378
+ru -> 378
+rua -> 378
+6 words found in 378 
+
+abbés -> 380
+des -> 380
+dés -> 380
+dès -> 380
+tas -> 380
+5 words found in 380 
+
+pacha -> 384
+1 words found in 384 
+
+famé -> 390
+1 words found in 390 
+
+banna -> 392
+1 words found in 392 
+
+baraka -> 396
+bavai -> 396
+var -> 396
+3 words found in 396 
+
+agaças -> 399
+su -> 399
+sua -> 399
+us -> 399
+usa -> 399
+5 words found in 399 
+
+date -> 400
+daté -> 400
+paya -> 400
+tata -> 400
+tâta -> 400
+5 words found in 400 
+
+ceci -> 405
+ciao -> 405
+coi -> 405
+3 words found in 405 
+
+hamada -> 416
+1 words found in 416 
+
+vas -> 418
+1 words found in 418 
+
+agaçât -> 420
+bon -> 420
+cabane -> 420
+cabané -> 420
+due -> 420
+égal -> 420
+égala -> 420
+fane -> 420
+fané -> 420
+gale -> 420
+gel -> 420
+gela -> 420
+goda -> 420
+nafé -> 420
+nef -> 420
+tu -> 420
+tua -> 420
+ut -> 420
+18 words found in 420 
+
+affala -> 432
+babil -> 432
+bâchai -> 432
+bicha -> 432
+char -> 432
+farad -> 432
+fard -> 432
+farda -> 432
+laid -> 432
+pic -> 432
+pica -> 432
+râbla -> 432
+12 words found in 432 
+
+Véda -> 440
+1 words found in 440 
+
+aéré -> 450
+aère -> 450
+bayai -> 450
+cobéa -> 450
+ère -> 450
+raya -> 450
+rée -> 450
+réé -> 450
+8 words found in 450 
+
+mage -> 455
+1 words found in 455 
+
+axas -> 456
+bals -> 456
+balsa -> 456
+basal -> 456
+blasa -> 456
+cash -> 456
+chas -> 456
+fadas -> 456
+sabla -> 456
+9 words found in 456 
+
+vu -> 462
+1 words found in 462 
+
+affama -> 468
+ambra -> 468
+brama -> 468
+calma -> 468
+clam -> 468
+clama -> 468
+daim -> 468
+damai -> 468
+macla -> 468
+raz -> 468
+ziba -> 468
+11 words found in 468 
+
+achat -> 480
+axât -> 480
+balade -> 480
+baladé -> 480
+balata -> 480
+bled -> 480
+bop -> 480
+chat -> 480
+fadât -> 480
+hale -> 480
+halé -> 480
+hâle -> 480
+hâlé -> 480
+héla -> 480
+tabla -> 480
+tacha -> 480
+tâcha -> 480
+taxa -> 480
+18 words found in 480 
+
+cabiai -> 486
+cari -> 486
+caria -> 486
+cira -> 486
+cri -> 486
+cria -> 486
+fiai -> 486
+7 words found in 486 
+
+ange -> 490
+bagage -> 490
+gêna -> 490
+nage -> 490
+nagé -> 490
+nagea -> 490
+6 words found in 490 
+
+samba -> 494
+1 words found in 494 
+
+abbaye -> 500
+dey -> 500
+été -> 500
+tee -> 500
+4 words found in 500 
+
+aux -> 504
+barn -> 504
+bran -> 504
+canal -> 504
+chu -> 504
+clan -> 504
+dîna -> 504
+garda -> 504
+lança -> 504
+nid -> 504
+raban -> 504
+11 words found in 504 
+
+casai -> 513
+scia -> 513
+sic -> 513
+3 words found in 513 
+
+hem -> 520
+1 words found in 520 
+
+agacée -> 525
+ego -> 525
+eue -> 525
+3 words found in 525 
+
+pack -> 528
+1 words found in 528 
+
+bans -> 532
+basana -> 532
+2 words found in 532 
+
+acide -> 540
+actai -> 540
+aile -> 540
+ailé -> 540
+berça -> 540
+bief -> 540
+bora -> 540
+cabre -> 540
+cabré -> 540
+caecal -> 540
+calao -> 540
+calo -> 540
+carabe -> 540
+cati -> 540
+cédai -> 540
+cita -> 540
+col -> 540
+cola -> 540
+crabe -> 540
+déci -> 540
+écaffa -> 540
+effaça -> 540
+fer -> 540
+fera -> 540
+féra -> 540
+île -> 540
+ioda -> 540
+laie -> 540
+lei -> 540
+lie -> 540
+lié -> 540
+off -> 540
+réf -> 540
+rob -> 540
+roba -> 540
+tic -> 540
+36 words found in 540 
+
+béké -> 550
+1 words found in 550 
+
+agape -> 560
+ahane -> 560
+ahané -> 560
+bande -> 560
+bandé -> 560
+page -> 560
+pagé -> 560
+pagea -> 560
+8 words found in 560 
+
+abcès -> 570
+becs -> 570
+boas -> 570
+3 words found in 570 
+
+blabla -> 576
+chabla -> 576
+clapa -> 576
+dalla -> 576
+harda -> 576
+plaça -> 576
+6 words found in 576 
+
+aime -> 585
+aimé -> 585
+amie -> 585
+coma -> 585
+émia -> 585
+maie -> 585
+mie -> 585
+7 words found in 585 
+
+buna -> 588
+canna -> 588
+dagua -> 588
+3 words found in 588 
+
+cavai -> 594
+kif -> 594
+2 words found in 594 
+
+abot -> 600
+axée -> 600
+balaya -> 600
+becta -> 600
+bêle -> 600
+bêlé -> 600
+bot -> 600
+èche -> 600
+fadée -> 600
+fêta -> 600
+jacta -> 600
+jale -> 600
+ohé -> 600
+13 words found in 600 
+
+camp -> 624
+campa -> 624
+2 words found in 624 
+
+acon -> 630
+agréa -> 630
+aine -> 630
+aîné -> 630
+con -> 630
+cube -> 630
+cubé -> 630
+égara -> 630
+erg -> 630
+feu -> 630
+gare -> 630
+garé -> 630
+géra -> 630
+gré -> 630
+gréa -> 630
+nie -> 630
+nié -> 630
+rage -> 630
+ragé -> 630
+ragea -> 630
+reg -> 630
+21 words found in 630 
+
+hep -> 640
+1 words found in 640 
+
+bâclai -> 648
+baffai -> 648
+barbai -> 648
+barra -> 648
+biffa -> 648
+cabalai -> 648
+câblai -> 648
+cacarda -> 648
+cachai -> 648
+chic -> 648
+dira -> 648
+fil -> 648
+fila -> 648
+rabbi -> 648
+racla -> 648
+radai -> 648
+radia -> 648
+raid -> 648
+rida -> 648
+19 words found in 648 
+
+zée -> 650
+1 words found in 650 
+
+âges -> 665
+âgés -> 665
+sage -> 665
+3 words found in 665 
+
+badaud -> 672
+Land -> 672
+panca -> 672
+pub -> 672
+4 words found in 672 
+
+oie -> 675
+1 words found in 675 
+
+abrasa -> 684
+aidas -> 684
+bars -> 684
+bras -> 684
+brasa -> 684
+calas -> 684
+cals -> 684
+cascada -> 684
+dais -> 684
+dis -> 684
+laças -> 684
+lacs -> 684
+sabra -> 684
+saccada -> 684
+14 words found in 684 
+
+gagna -> 686
+gang -> 686
+ganga -> 686
+3 words found in 686 
+
+agate -> 700
+gâte -> 700
+gâté -> 700
+jean -> 700
+4 words found in 700 
+
+carma -> 702
+crama -> 702
+faim -> 702
+mafia -> 702
+marc -> 702
+5 words found in 702 
+
+aidât -> 720
+alcade -> 720
+allé -> 720
+barde -> 720
+bardé -> 720
+box -> 720
+boxa -> 720
+brade -> 720
+bradé -> 720
+calât -> 720
+calta -> 720
+chef -> 720
+clade -> 720
+datai -> 720
+décala -> 720
+dédia -> 720
+délaça -> 720
+dit -> 720
+dît -> 720
+dol -> 720
+dola -> 720
+ébahi -> 720
+épi -> 720
+épia -> 720
+fable -> 720
+fâche -> 720
+fâché -> 720
+faxe -> 720
+faxé -> 720
+laçât -> 720
+paie -> 720
+pie -> 720
+rabat -> 720
+rhé -> 720
+tabar -> 720
+talc -> 720
+36 words found in 720 
+
+basas -> 722
+1 words found in 722 
+
+daman -> 728
+damna -> 728
+gambada -> 728
+manda -> 728
+4 words found in 728 
+
+auge -> 735
+gué -> 735
+guéa -> 735
+3 words found in 735 
+
+macs -> 741
+1 words found in 741 
+
+aboya -> 750
+boy -> 750
+jacée -> 750
+3 words found in 750 
+
+afin -> 756
+agrafa -> 756
+ancra -> 756
+bru -> 756
+cabanai -> 756
+caduc -> 756
+cran -> 756
+crana -> 756
+crâna -> 756
+cul -> 756
+cula -> 756
+fanai -> 756
+fin -> 756
+nacra -> 756
+naïf -> 756
+nif -> 756
+16 words found in 756 
+
+abats -> 760
+basât -> 760
+bâtas -> 760
+bats -> 760
+hase -> 760
+5 words found in 760 
+
+coq -> 765
+1 words found in 765 
+
+cappa -> 768
+1 words found in 768 
+
+agave -> 770
+agavé -> 770
+gave -> 770
+gavé -> 770
+4 words found in 770 
+
+bomba -> 780
+dom -> 780
+fez -> 780
+lame -> 780
+lamé -> 780
+mâle -> 780
+mêla -> 780
+7 words found in 780 
+
+black -> 792
+brava -> 792
+calva -> 792
+cavala -> 792
+clava -> 792
+div -> 792
+diva -> 792
+haïk -> 792
+vida -> 792
+9 words found in 792 
+
+abus -> 798
+abusa -> 798
+bus -> 798
+canas -> 798
+4 words found in 798 
+
+bâtât -> 800
+débat -> 800
+débâta -> 800
+hâte -> 800
+hâté -> 800
+thé -> 800
+6 words found in 800 
+
+aérai -> 810
+aire -> 810
+airé -> 810
+cor -> 810
+foi -> 810
+ire -> 810
+ocra -> 810
+raie -> 810
+réai -> 810
+rie -> 810
+roc -> 810
+11 words found in 810 
+
+agami -> 819
+1 words found in 819 
+
+kayac -> 825
+yack -> 825
+2 words found in 825 
+
+bavas -> 836
+1 words found in 836 
+
+anale -> 840
+aubade -> 840
+but -> 840
+bût -> 840
+buta -> 840
+canât -> 840
+daube -> 840
+daubé -> 840
+décan -> 840
+don -> 840
+élan -> 840
+euh -> 840
+gâble -> 840
+gâche -> 840
+gâché -> 840
+galbe -> 840
+galbé -> 840
+heu -> 840
+hue -> 840
+hué -> 840
+tança -> 840
+tub -> 840
+tuba -> 840
+23 words found in 840 
+
+accès -> 855
+aies -> 855
+aise -> 855
+aisé -> 855
+soc -> 855
+5 words found in 855 
+
+baladai -> 864
+chacal -> 864
+chiada -> 864
+dix -> 864
+halai -> 864
+hâlai -> 864
+lard -> 864
+larda -> 864
+parc -> 864
+piaf -> 864
+pif -> 864
+pifa -> 864
+rabâcha -> 864
+13 words found in 864 
+
+égaya -> 875
+1 words found in 875 
+
+bavât -> 880
+have -> 880
+havé -> 880
+hâve -> 880
+4 words found in 880 
+
+gain -> 882
+gaina -> 882
+gin -> 882
+3 words found in 882 
+
+panda -> 896
+1 words found in 896 
+
+accédé -> 900
+accède -> 900
+aidée -> 900
+béer -> 900
+béera -> 900
+bobo -> 900
+braya -> 900
+calée -> 900
+celé -> 900
+cèle -> 900
+code -> 900
+codé -> 900
+cota -> 900
+écale -> 900
+écalé -> 900
+étai -> 900
+idée -> 900
+lacée -> 900
+olé -> 900
+taie -> 900
+toc -> 900
+21 words found in 900 
+
+amen -> 910
+amena -> 910
+émana -> 910
+gambe -> 910
+gaze -> 910
+gazé -> 910
+men -> 910
+mena -> 910
+8 words found in 910 
+
+bâchas -> 912
+caps -> 912
+casbah -> 912
+lads -> 912
+4 words found in 912 
+
+avança -> 924
+1 words found in 924 
+
+gagas -> 931
+gags -> 931
+2 words found in 931 
+
+armada -> 936
+bazar -> 936
+2 words found in 936 
+
+agio -> 945
+caoua -> 945
+cou -> 945
+goï -> 945
+4 words found in 945 
+
+basée -> 950
+bayas -> 950
+bées -> 950
+jase -> 950
+jasé -> 950
+5 words found in 950 
+
+alpe -> 960
+bâchât -> 960
+capta -> 960
+débâcha -> 960
+décapa -> 960
+dopa -> 960
+épala -> 960
+hable -> 960
+hablé -> 960
+hache -> 960
+haché -> 960
+lape -> 960
+lapé -> 960
+pale -> 960
+pâle -> 960
+pela -> 960
+16 words found in 960 
+
+arabica -> 972
+bric -> 972
+cabrai -> 972
+cabri -> 972
+carra -> 972
+clic -> 972
+frai -> 972
+liai -> 972
+8 words found in 972 
+
+camée -> 975
+1 words found in 975 
+
+bagne -> 980
+1 words found in 980 
+
+damas -> 988
+1 words found in 988 
+
+bock -> 990
+ive -> 990
+vie -> 990
+3 words found in 990 
+
+abatée -> 1000
+bâtée -> 1000
+bayât -> 1000
+béate -> 1000
+bête -> 1000
+jet -> 1000
+jeta -> 1000
+7 words found in 1000 
+
+adula -> 1008
+ahanai -> 1008
+badin -> 1008
+badina -> 1008
+balança -> 1008
+bancal -> 1008
+bandai -> 1008
+baux -> 1008
+blanc -> 1008
+bûcha -> 1008
+dual -> 1008
+fanal -> 1008
+flan -> 1008
+flâna -> 1008
+nard -> 1008
+15 words found in 1008 
+
+arcs -> 1026
+basic -> 1026
+bics -> 1026
+cars -> 1026
+fais -> 1026
+fias -> 1026
+fis -> 1026
+ifs -> 1026
+sacra -> 1026
+9 words found in 1026 
+
+damât -> 1040
+pâme -> 1040
+pâmé -> 1040
+3 words found in 1040 
+
+saké -> 1045
+1 words found in 1045 
+
+buée -> 1050
+cène -> 1050
+cyan -> 1050
+éon -> 1050
+gobe -> 1050
+gobé -> 1050
+jeu -> 1050
+néo -> 1050
+8 words found in 1050 
+
+aimai -> 1053
+1 words found in 1053 
+
+aghas -> 1064
+bagads -> 1064
+dans -> 1064
+dansa -> 1064
+nababs -> 1064
+5 words found in 1064 
+
+caqua -> 1071
+1 words found in 1071 
+
+acabit -> 1080
+accable -> 1080
+accablé -> 1080
+adora -> 1080
+aiche -> 1080
+arcade -> 1080
+bâfre -> 1080
+bâfré -> 1080
+balaie -> 1080
+bêlai -> 1080
+bile -> 1080
+bilé -> 1080
+bloc -> 1080
+bocal -> 1080
+bref -> 1080
+cadre -> 1080
+cadré -> 1080
+carat -> 1080
+carde -> 1080
+cardé -> 1080
+chie -> 1080
+chié -> 1080
+choc -> 1080
+clef -> 1080
+coach -> 1080
+cocha -> 1080
+côcha -> 1080
+darce -> 1080
+défi -> 1080
+défia -> 1080
+dora -> 1080
+fait -> 1080
+fécal -> 1080
+fiat -> 1080
+fiât -> 1080
+fit -> 1080
+fît -> 1080
+fol -> 1080
+labié -> 1080
+lof -> 1080
+lofa -> 1080
+râle -> 1080
+râlé -> 1080
+réal -> 1080
+roda -> 1080
+rôda -> 1080
+tafia -> 1080
+tif -> 1080
+trac -> 1080
+traça -> 1080
+50 words found in 1080 
+
+casas -> 1083
+cassa -> 1083
+sacs -> 1083
+3 words found in 1083 
+
+kaki -> 1089
+1 words found in 1089 
+
+malaga -> 1092
+1 words found in 1092 
+
+tek -> 1100
+1 words found in 1100 
+
+pane -> 1120
+pané -> 1120
+péan -> 1120
+3 words found in 1120 
+
+agir -> 1134
+agira -> 1134
+cru -> 1134
+crû -> 1134
+cubai -> 1134
+cura -> 1134
+fui -> 1134
+garai -> 1134
+niai -> 1134
+9 words found in 1134 
+
+actas -> 1140
+ados -> 1140
+aléas -> 1140
+ales -> 1140
+alésa -> 1140
+bobs -> 1140
+cades -> 1140
+casât -> 1140
+cédas -> 1140
+décas -> 1140
+dos -> 1140
+dosa -> 1140
+les -> 1140
+lès -> 1140
+lésa -> 1140
+sale -> 1140
+salé -> 1140
+scat -> 1140
+sel -> 1140
+soda -> 1140
+tacs -> 1140
+21 words found in 1140 
+
+drap -> 1152
+drapa -> 1152
+hall -> 1152
+parada -> 1152
+phi -> 1152
+5 words found in 1152 
+
+abîme -> 1170
+abîmé -> 1170
+amer -> 1170
+amibe -> 1170
+arme -> 1170
+armé -> 1170
+iambe -> 1170
+mare -> 1170
+mer -> 1170
+rame -> 1170
+ramé -> 1170
+rem -> 1170
+12 words found in 1170 
+
+glana -> 1176
+1 words found in 1176 
+
+magma -> 1183
+1 words found in 1183 
+
+kali -> 1188
+kil -> 1188
+vif -> 1188
+vrac -> 1188
+4 words found in 1188 
+
+agis -> 1197
+causa -> 1197
+gais -> 1197
+gis -> 1197
+saïga -> 1197
+sauça -> 1197
+suc -> 1197
+suça -> 1197
+8 words found in 1197 
+
+actât -> 1200
+bâchée -> 1200
+bêche -> 1200
+bêché -> 1200
+caddy -> 1200
+cadet -> 1200
+capée -> 1200
+capéé -> 1200
+cédât -> 1200
+cèpe -> 1200
+décade -> 1200
+décéda -> 1200
+dot -> 1200
+dota -> 1200
+étal -> 1200
+étala -> 1200
+jable -> 1200
+jablé -> 1200
+lady -> 1200
+let -> 1200
+ope -> 1200
+tact -> 1200
+tale -> 1200
+talé -> 1200
+tel -> 1200
+25 words found in 1200 
+
+shah -> 1216
+1 words found in 1216 
+
+gagée -> 1225
+1 words found in 1225 
+
+khan -> 1232
+vanda -> 1232
+2 words found in 1232 
+
+âmes -> 1235
+mes -> 1235
+mesa -> 1235
+sema -> 1235
+4 words found in 1235 
+
+lambda -> 1248
+1 words found in 1248 
+
+cavas -> 1254
+1 words found in 1254 
+
+agit -> 1260
+agît -> 1260
+agita -> 1260
+audace -> 1260
+bacon -> 1260
+banco -> 1260
+barge -> 1260
+beauf -> 1260
+béni -> 1260
+bien -> 1260
+bine -> 1260
+biné -> 1260
+cadeau -> 1260
+calage -> 1260
+déçu -> 1260
+doua -> 1260
+duce -> 1260
+duo -> 1260
+élu -> 1260
+faon -> 1260
+gabare -> 1260
+gaffe -> 1260
+gaffé -> 1260
+gâtai -> 1260
+gerba -> 1260
+gît -> 1260
+gîta -> 1260
+glace -> 1260
+glacé -> 1260
+goal -> 1260
+jaïn -> 1260
+jaïna -> 1260
+laçage -> 1260
+leu -> 1260
+lue -> 1260
+taïga -> 1260
+36 words found in 1260 
+
+magna -> 1274
+1 words found in 1274 
+
+adapta -> 1280
+pape -> 1280
+pep -> 1280
+3 words found in 1280 
+
+kami -> 1287
+maki -> 1287
+2 words found in 1287 
+
+affadi -> 1296
+ailla -> 1296
+allai -> 1296
+allia -> 1296
+bardai -> 1296
+bradai -> 1296
+brida -> 1296
+cafard -> 1296
+cafarda -> 1296
+cracha -> 1296
+diffa -> 1296
+fâchai -> 1296
+faxai -> 1296
+ficha -> 1296
+fixa -> 1296
+haïr -> 1296
+haïra -> 1296
+radar -> 1296
+rafla -> 1296
+19 words found in 1296 
+
+béez -> 1300
+damée -> 1300
+dème -> 1300
+étama -> 1300
+jambe -> 1300
+jambé -> 1300
+mate -> 1300
+maté -> 1300
+mâte -> 1300
+mâté -> 1300
+méat -> 1300
+mède -> 1300
+met -> 1300
+méta -> 1300
+14 words found in 1300 
+
+avale -> 1320
+avalé -> 1320
+cavât -> 1320
+kache -> 1320
+lave -> 1320
+lavé -> 1320
+lev -> 1320
+leva -> 1320
+vêla -> 1320
+9 words found in 1320 
+
+agui -> 1323
+aigu -> 1323
+guai -> 1323
+gui -> 1323
+4 words found in 1323 
+
+ânes -> 1330
+anse -> 1330
+ansé -> 1330
+nase -> 1330
+nés -> 1330
+sen -> 1330
+6 words found in 1330 
+
+alpaga -> 1344
+dupa -> 1344
+2 words found in 1344 
+
+aboie -> 1350
+acéré -> 1350
+acère -> 1350
+crée -> 1350
+créé -> 1350
+fiée -> 1350
+obéi -> 1350
+racée -> 1350
+8 words found in 1350 
+
+ému -> 1365
+mue -> 1365
+mué -> 1365
+3 words found in 1365 
+
+alfas -> 1368
+bâclas -> 1368
+baffas -> 1368
+barbas -> 1368
+cabalas -> 1368
+câblas -> 1368
+cachas -> 1368
+hais -> 1368
+haïs -> 1368
+radas -> 1368
+10 words found in 1368 
+
+cuva -> 1386
+gavai -> 1386
+vagi -> 1386
+3 words found in 1386 
+
+abatage -> 1400
+adnée -> 1400
+ante -> 1400
+éden -> 1400
+enta -> 1400
+net -> 1400
+6 words found in 1400 
+
+acclama -> 1404
+cadmia -> 1404
+cambra -> 1404
+czar -> 1404
+lamai -> 1404
+lima -> 1404
+mail -> 1404
+mali -> 1404
+mil -> 1404
+9 words found in 1404 
+
+casée -> 1425
+ose -> 1425
+osé -> 1425
+3 words found in 1425 
+
+âpre -> 1440
+bâclât -> 1440
+baffât -> 1440
+balle -> 1440
+ballé -> 1440
+barbât -> 1440
+cabalât -> 1440
+câblât -> 1440
+cachât -> 1440
+catch -> 1440
+catcha -> 1440
+châle -> 1440
+darde -> 1440
+dardé -> 1440
+débâcla -> 1440
+dérada -> 1440
+épar -> 1440
+fatal -> 1440
+hait -> 1440
+haït -> 1440
+halo -> 1440
+hâtai -> 1440
+herba -> 1440
+holà -> 1440
+label -> 1440
+lâche -> 1440
+lâché -> 1440
+lécha -> 1440
+pare -> 1440
+paré -> 1440
+pré -> 1440
+radât -> 1440
+rajah -> 1440
+râpe -> 1440
+râpé -> 1440
+tard -> 1440
+tarda -> 1440
+37 words found in 1440 
+
+airai -> 1458
+cric -> 1458
+irai -> 1458
+3 words found in 1458 
+
+agença -> 1470
+aune -> 1470
+bague -> 1470
+bagué -> 1470
+bauge -> 1470
+baugé -> 1470
+baugea -> 1470
+bégu -> 1470
+cagne -> 1470
+cagné -> 1470
+écang -> 1470
+nue -> 1470
+nué -> 1470
+une -> 1470
+14 words found in 1470 
+
+actée -> 1500
+cédée -> 1500
+laye -> 1500
+layé -> 1500
+ôte -> 1500
+ôté -> 1500
+6 words found in 1500 
+
+ardu -> 1512
+bacul -> 1512
+barbu -> 1512
+bigla -> 1512
+candi -> 1512
+club -> 1512
+daubai -> 1512
+dru -> 1512
+dur -> 1512
+dura -> 1512
+flua -> 1512
+gâchai -> 1512
+galbai -> 1512
+huai -> 1512
+hui -> 1512
+laina -> 1512
+lin -> 1512
+17 words found in 1512 
+
+aspe -> 1520
+datas -> 1520
+pesa -> 1520
+sabbat -> 1520
+sape -> 1520
+sapé -> 1520
+sep -> 1520
+7 words found in 1520 
+
+imam -> 1521
+mima -> 1521
+2 words found in 1521 
+
+alpha -> 1536
+1 words found in 1536 
+
+acacias -> 1539
+1 words found in 1539 
+
+aven -> 1540
+nebka -> 1540
+2 words found in 1540 
+
+amble -> 1560
+amblé -> 1560
+blâme -> 1560
+blâmé -> 1560
+fatma -> 1560
+mâche -> 1560
+mâché -> 1560
+mataf -> 1560
+mécha -> 1560
+Melba -> 1560
+ohm -> 1560
+11 words found in 1560 
+
+égaie -> 1575
+1 words found in 1575 
+
+havai -> 1584
+havi -> 1584
+2 words found in 1584 
+
+bancs -> 1596
+cabanas -> 1596
+cabans -> 1596
+dus -> 1596
+dûs -> 1596
+fanas -> 1596
+galas -> 1596
+gals -> 1596
+glas -> 1596
+sud -> 1596
+10 words found in 1596 
+
+apte -> 1600
+datât -> 1600
+épata -> 1600
+pâte -> 1600
+pâté -> 1600
+péta -> 1600
+tape -> 1600
+tapé -> 1600
+8 words found in 1600 
+
+accédai -> 1620
+accola -> 1620
+afro -> 1620
+aloi -> 1620
+baiera -> 1620
+biface -> 1620
+braie -> 1620
+brie -> 1620
+broc -> 1620
+cacaber -> 1620
+cacabera -> 1620
+cafre -> 1620
+carafe -> 1620
+celai -> 1620
+cerf -> 1620
+ciel -> 1620
+claie -> 1620
+cobra -> 1620
+codai -> 1620
+dico -> 1620
+écalai -> 1620
+erra -> 1620
+farce -> 1620
+faro -> 1620
+fief -> 1620
+for -> 1620
+fora -> 1620
+lice -> 1620
+loi -> 1620
+oïl -> 1620
+rare -> 1620
+31 words found in 1620 
+
+maye -> 1625
+1 words found in 1625 
+
+anima -> 1638
+fuma -> 1638
+gazai -> 1638
+main -> 1638
+mania -> 1638
+min -> 1638
+mina -> 1638
+zig -> 1638
+8 words found in 1638 
+
+cavée -> 1650
+ove -> 1650
+2 words found in 1650 
+
+abonda -> 1680
+anche -> 1680
+bâchage -> 1680
+balane -> 1680
+banale -> 1680
+bond -> 1680
+bonda -> 1680
+cabanât -> 1680
+dut -> 1680
+dût -> 1680
+fanât -> 1680
+fend -> 1680
+pacage -> 1680
+pacagé -> 1680
+pacagea -> 1680
+peau -> 1680
+peu -> 1680
+pue -> 1680
+pué -> 1680
+tagal -> 1680
+20 words found in 1680 
+
+aéras -> 1710
+arase -> 1710
+arasé -> 1710
+ares -> 1710
+baies -> 1710
+baise -> 1710
+baisé -> 1710
+béais -> 1710
+bise -> 1710
+bisé -> 1710
+cacabes -> 1710
+cafés -> 1710
+faces -> 1710
+fascé -> 1710
+jais -> 1710
+jasai -> 1710
+rase -> 1710
+rasé -> 1710
+réas -> 1710
+sera -> 1710
+sofa -> 1710
+21 words found in 1710 
+
+kamala -> 1716
+1 words found in 1716 
+
+falbala -> 1728
+hablai -> 1728
+hachai -> 1728
+halbi -> 1728
+lapai -> 1728
+pâli -> 1728
+parafa -> 1728
+pila -> 1728
+pli -> 1728
+plia -> 1728
+10 words found in 1728 
+
+bégaya -> 1750
+yen -> 1750
+2 words found in 1750 
+
+cime -> 1755
+écima -> 1755
+moi -> 1755
+3 words found in 1755 
+
+khat -> 1760
+pave -> 1760
+pavé -> 1760
+vape -> 1760
+4 words found in 1760 
+
+baigna -> 1764
+cancan -> 1764
+cancana -> 1764
+gaula -> 1764
+glu -> 1764
+nain -> 1764
+rang -> 1764
+7 words found in 1764 
+
+crack -> 1782
+kir -> 1782
+raki -> 1782
+3 words found in 1782 
+
+que -> 1785
+1 words found in 1785 
+
+hanap -> 1792
+1 words found in 1792 
+
+abêti -> 1800
+aérât -> 1800
+âtre -> 1800
+bâclée -> 1800
+baffée -> 1800
+barbée -> 1800
+bâtie -> 1800
+béait -> 1800
+bite -> 1800
+bité -> 1800
+câblée -> 1800
+cabot -> 1800
+cabota -> 1800
+cachée -> 1800
+cafte -> 1800
+cafté -> 1800
+draya -> 1800
+dry -> 1800
+ébarbe -> 1800
+ébarbé -> 1800
+écache -> 1800
+écaché -> 1800
+échec -> 1800
+écho -> 1800
+elfe -> 1800
+féale -> 1800
+fêle -> 1800
+fêlé -> 1800
+lobe -> 1800
+lobé -> 1800
+obel -> 1800
+radée -> 1800
+rate -> 1800
+raté -> 1800
+réât -> 1800
+tare -> 1800
+taré -> 1800
+yard -> 1800
+38 words found in 1800 
+
+asse -> 1805
+ses -> 1805
+2 words found in 1805 
+
+damage -> 1820
+nez -> 1820
+zen -> 1820
+3 words found in 1820 
+
+baladas -> 1824
+halas -> 1824
+hâlas -> 1824
+3 words found in 1824 
+
+gansa -> 1862
+sang -> 1862
+2 words found in 1862 
+
+flamba -> 1872
+pâmai -> 1872
+2 words found in 1872 
+
+ksi -> 1881
+saki -> 1881
+Skaï -> 1881
+ski -> 1881
+skia -> 1881
+5 words found in 1881 
+
+agacer -> 1890
+agacera -> 1890
+agora -> 1890
+bouc -> 1890
+ciné -> 1890
+fige -> 1890
+figé -> 1890
+figea -> 1890
+fou -> 1890
+garce -> 1890
+gerça -> 1890
+gobai -> 1890
+grâce -> 1890
+grec -> 1890
+ion -> 1890
+ouf -> 1890
+rue -> 1890
+rué -> 1890
+ure -> 1890
+19 words found in 1890 
+
+aèdes -> 1900
+babys -> 1900
+bébés -> 1900
+est -> 1900
+set -> 1900
+tes -> 1900
+tés -> 1900
+7 words found in 1900 
+
+apache -> 1920
+apex -> 1920
+baladât -> 1920
+chape -> 1920
+chapé -> 1920
+datcha -> 1920
+déhala -> 1920
+halât -> 1920
+hâlât -> 1920
+hop -> 1920
+jalap -> 1920
+pécha -> 1920
+pêcha -> 1920
+13 words found in 1920 
+
+accablai -> 1944
+alibi -> 1944
+bâfrai -> 1944
+bilai -> 1944
+brifa -> 1944
+cadrai -> 1944
+caracal -> 1944
+cardai -> 1944
+cardia -> 1944
+chiai -> 1944
+facial -> 1944
+flic -> 1944
+ixia -> 1944
+lira -> 1944
+rail -> 1944
+râlai -> 1944
+rial -> 1944
+17 words found in 1944 
+
+bôme -> 1950
+famée -> 1950
+2 words found in 1950 
+
+agenda -> 1960
+agnat -> 1960
+banane -> 1960
+banne -> 1960
+banné -> 1960
+gant -> 1960
+ganta -> 1960
+7 words found in 1960 
+
+avare -> 1980
+avéra -> 1980
+break -> 1980
+dock -> 1980
+kit -> 1980
+koala -> 1980
+kola -> 1980
+rave -> 1980
+rêva -> 1980
+ver -> 1980
+10 words found in 1980 
+
+agaces -> 1995
+agacés -> 1995
+cages -> 1995
+eus -> 1995
+sagace -> 1995
+seau -> 1995
+sue -> 1995
+sué -> 1995
+use -> 1995
+usé -> 1995
+10 words found in 1995 
+
+datée -> 2000
+dyade -> 2000
+épée -> 2000
+état -> 2000
+paye -> 2000
+payé -> 2000
+tâte -> 2000
+tâté -> 2000
+téta -> 2000
+9 words found in 2000 
+
+chaud -> 2016
+flagada -> 2016
+pain -> 2016
+panai -> 2016
+pian -> 2016
+pin -> 2016
+6 words found in 2016 
+
+coco -> 2025
+1 words found in 2025 
+
+macadam -> 2028
+1 words found in 2028 
+
+happa -> 2048
+1 words found in 2048 
+
+ails -> 2052
+alias -> 2052
+cabras -> 2052
+cadis -> 2052
+caïds -> 2052
+fars -> 2052
+ils -> 2052
+lais -> 2052
+lias -> 2052
+lis -> 2052
+salai -> 2052
+sali -> 2052
+sial -> 2052
+sil -> 2052
+14 words found in 2052 
+
+math -> 2080
+1 words found in 2080 
+
+évasa -> 2090
+sebka -> 2090
+vase -> 2090
+3 words found in 2090 
+
+béance -> 2100
+bécane -> 2100
+cabanée -> 2100
+caget -> 2100
+doge -> 2100
+égale -> 2100
+égalé -> 2100
+étau -> 2100
+eut -> 2100
+eût -> 2100
+fanée -> 2100
+gayal -> 2100
+gelé -> 2100
+gèle -> 2100
+gode -> 2100
+godé -> 2100
+jubé -> 2100
+lège -> 2100
+tue -> 2100
+tué -> 2100
+20 words found in 2100 
+
+abîmai -> 2106
+armai -> 2106
+mari -> 2106
+maria -> 2106
+mir -> 2106
+mira -> 2106
+ramai -> 2106
+rami -> 2106
+rima -> 2106
+9 words found in 2106 
+
+halva -> 2112
+1 words found in 2112 
+
+ahanas -> 2128
+ahans -> 2128
+bandas -> 2128
+gaps -> 2128
+4 words found in 2128 
+
+moka -> 2145
+1 words found in 2145 
+
+abord -> 2160
+aborda -> 2160
+affale -> 2160
+affalé -> 2160
+alita -> 2160
+allô -> 2160
+arable -> 2160
+arche -> 2160
+axer -> 2160
+axera -> 2160
+bêchai -> 2160
+bible -> 2160
+biche -> 2160
+biché -> 2160
+bord -> 2160
+borda -> 2160
+bréla -> 2160
+brêla -> 2160
+broda -> 2160
+cabrât -> 2160
+caddie -> 2160
+capéai -> 2160
+cella -> 2160
+cher -> 2160
+chéra -> 2160
+décadi -> 2160
+décida -> 2160
+délai -> 2160
+délia -> 2160
+dicta -> 2160
+élida -> 2160
+épiça -> 2160
+facho -> 2160
+fader -> 2160
+fadera -> 2160
+farde -> 2160
+fardé -> 2160
+fart -> 2160
+farta -> 2160
+fox -> 2160
+haro -> 2160
+idéal -> 2160
+ipéca -> 2160
+jablai -> 2160
+labre -> 2160
+laide -> 2160
+lait -> 2160
+liât -> 2160
+lied -> 2160
+lit -> 2160
+lita -> 2160
+râble -> 2160
+râblé -> 2160
+rhô -> 2160
+talai -> 2160
+55 words found in 2160 
+
+krak -> 2178
+1 words found in 2178 
+
+hum -> 2184
+huma -> 2184
+2 words found in 2184 
+
+évadé -> 2200
+vêt -> 2200
+2 words found in 2200 
+
+gageai -> 2205
+1 words found in 2205 
+
+aimas -> 2223
+amis -> 2223
+maïas -> 2223
+mais -> 2223
+maïs -> 2223
+mis -> 2223
+misa -> 2223
+sima -> 2223
+8 words found in 2223 
+
+ahanât -> 2240
+bandât -> 2240
+débanda -> 2240
+hanta -> 2240
+4 words found in 2240 
+
+aérée -> 2250
+éraya -> 2250
+raye -> 2250
+rayé -> 2250
+4 words found in 2250 
+
+accula -> 2268
+binai -> 2268
+canif -> 2268
+carcan -> 2268
+fiança -> 2268
+fur -> 2268
+gaffai -> 2268
+gicla -> 2268
+glaçai -> 2268
+lui -> 2268
+raina -> 2268
+rani -> 2268
+12 words found in 2268 
+
+gym -> 2275
+1 words found in 2275 
+
+axes -> 2280
+axés -> 2280
+balès -> 2280
+baobabs -> 2280
+basale -> 2280
+bêlas -> 2280
+blase -> 2280
+blasé -> 2280
+blés -> 2280
+blésa -> 2280
+escha -> 2280
+fades -> 2280
+fadés -> 2280
+fats -> 2280
+sable -> 2280
+sablé -> 2280
+sache -> 2280
+saxe -> 2280
+sécha -> 2280
+tabacs -> 2280
+20 words found in 2280 
+
+harpa -> 2304
+papi -> 2304
+pipa -> 2304
+3 words found in 2304 
+
+aveu -> 2310
+neck -> 2310
+veau -> 2310
+vue -> 2310
+4 words found in 2310 
+
+affame -> 2340
+affamé -> 2340
+aimât -> 2340
+amati -> 2340
+ambre -> 2340
+ambré -> 2340
+amide -> 2340
+brame -> 2340
+bramé -> 2340
+cacabez -> 2340
+calame -> 2340
+calme -> 2340
+calmé -> 2340
+clame -> 2340
+clamé -> 2340
+demi -> 2340
+dîme -> 2340
+idem -> 2340
+macle -> 2340
+maclé -> 2340
+matai -> 2340
+mâtai -> 2340
+mati -> 2340
+média -> 2340
+mit -> 2340
+mît -> 2340
+mita -> 2340
+mol -> 2340
+tamia -> 2340
+zibe -> 2340
+zibé -> 2340
+31 words found in 2340 
+
+annal -> 2352
+1 words found in 2352 
+
+maman -> 2366
+1 words found in 2366 
+
+avalai -> 2376
+kraal -> 2376
+lavai -> 2376
+vil -> 2376
+4 words found in 2376 
+
+anis -> 2394
+anisa -> 2394
+argas -> 2394
+busc -> 2394
+cabus -> 2394
+cubas -> 2394
+fus -> 2394
+fusa -> 2394
+garas -> 2394
+gars -> 2394
+gras -> 2394
+nais -> 2394
+nias -> 2394
+sain -> 2394
+sauf -> 2394
+ubacs -> 2394
+16 words found in 2394 
+
+acheta -> 2400
+baladée -> 2400
+balte -> 2400
+batela -> 2400
+bêlât -> 2400
+blet -> 2400
+dèche -> 2400
+établa -> 2400
+halée -> 2400
+hâlée -> 2400
+hélé -> 2400
+hèle -> 2400
+table -> 2400
+tablé -> 2400
+tache -> 2400
+taché -> 2400
+tâche -> 2400
+tâché -> 2400
+taxe -> 2400
+taxé -> 2400
+20 words found in 2400 
+
+accora -> 2430
+acérai -> 2430
+acier -> 2430
+aciéra -> 2430
+caraco -> 2430
+carie -> 2430
+carié -> 2430
+cire -> 2430
+ciré -> 2430
+craie -> 2430
+créai -> 2430
+crie -> 2430
+crié -> 2430
+croc -> 2430
+roi -> 2430
+15 words found in 2430 
+
+gène -> 2450
+gêne -> 2450
+gêné -> 2450
+nagée -> 2450
+yang -> 2450
+5 words found in 2450 
+
+amuï -> 2457
+muai -> 2457
+2 words found in 2457 
+
+panka -> 2464
+1 words found in 2464 
+
+coke -> 2475
+1 words found in 2475 
+
+lampa -> 2496
+palma -> 2496
+2 words found in 2496 
+
+étaya -> 2500
+1 words found in 2500 
+
+adouba -> 2520
+babine -> 2520
+bâclage -> 2520
+berna -> 2520
+bleu -> 2520
+bouda -> 2520
+câblage -> 2520
+cadença -> 2520
+chue -> 2520
+cubât -> 2520
+daine -> 2520
+déni -> 2520
+dénia -> 2520
+diane -> 2520
+dîne -> 2520
+dîné -> 2520
+donc -> 2520
+eaux -> 2520
+échu -> 2520
+effana -> 2520
+égard -> 2520
+élança -> 2520
+enlaça -> 2520
+eux -> 2520
+faut -> 2520
+fauta -> 2520
+fut -> 2520
+fût -> 2520
+garât -> 2520
+garde -> 2520
+gardé -> 2520
+grade -> 2520
+gradé -> 2520
+hou -> 2520
+houa -> 2520
+inde -> 2520
+lance -> 2520
+lancé -> 2520
+naïade -> 2520
+naît -> 2520
+niât -> 2520
+rabane -> 2520
+tain -> 2520
+tian -> 2520
+tuf -> 2520
+45 words found in 2520 
+
+sagas -> 2527
+1 words found in 2527 
+
+jappa -> 2560
+1 words found in 2560 
+
+cacaos -> 2565
+cocas -> 2565
+ois -> 2565
+osai -> 2565
+scie -> 2565
+scié -> 2565
+soi -> 2565
+7 words found in 2565 
+
+karma -> 2574
+mark -> 2574
+2 words found in 2574 
+
+accapara -> 2592
+bailla -> 2592
+bâilla -> 2592
+balafra -> 2592
+ballai -> 2592
+bill -> 2592
+chiala -> 2592
+dardai -> 2592
+labial -> 2592
+lâchai -> 2592
+licha -> 2592
+pair -> 2592
+parai -> 2592
+pari -> 2592
+paria -> 2592
+pria -> 2592
+râpai -> 2592
+ripa -> 2592
+18 words found in 2592 
+
+embat -> 2600
+zêta -> 2600
+2 words found in 2600 
+
+goy -> 2625
+yoga -> 2625
+2 words found in 2625 
+
+acheva -> 2640
+kabbale -> 2640
+vache -> 2640
+vexa -> 2640
+4 words found in 2640 
+
+argua -> 2646
+aucuba -> 2646
+baguai -> 2646
+cagnai -> 2646
+gaur -> 2646
+grau -> 2646
+nuai -> 2646
+ragua -> 2646
+uni -> 2646
+9 words found in 2646 
+
+adages -> 2660
+basane -> 2660
+basané -> 2660
+gades -> 2660
+gâtas -> 2660
+jans -> 2660
+najas -> 2660
+7 words found in 2660 
+
+hancha -> 2688
+palan -> 2688
+plan -> 2688
+plana -> 2688
+4 words found in 2688 
+
+accot -> 2700
+accota -> 2700
+acerbe -> 2700
+ailée -> 2700
+berce -> 2700
+bercé -> 2700
+bore -> 2700
+cabrée -> 2700
+caecale -> 2700
+cite -> 2700
+cité -> 2700
+écaffe -> 2700
+écaffé -> 2700
+écati -> 2700
+efface -> 2700
+effacé -> 2700
+fraya -> 2700
+iode -> 2700
+iodé -> 2700
+iota -> 2700
+layai -> 2700
+liée -> 2700
+obéra -> 2700
+orbe -> 2700
+ôtai -> 2700
+rebec -> 2700
+robe -> 2700
+robé -> 2700
+toi -> 2700
+29 words found in 2700 
+
+agacez -> 2730
+baume -> 2730
+embu -> 2730
+embua -> 2730
+menaça -> 2730
+mon -> 2730
+nom -> 2730
+7 words found in 2730 
+
+allas -> 2736
+apaisa -> 2736
+apis -> 2736
+bardas -> 2736
+bards -> 2736
+bradas -> 2736
+dadais -> 2736
+fâchas -> 2736
+faxas -> 2736
+haras -> 2736
+pais -> 2736
+pis -> 2736
+psi -> 2736
+rash -> 2736
+sapai -> 2736
+15 words found in 2736 
+
+nanan -> 2744
+1 words found in 2744 
+
+avina -> 2772
+grava -> 2772
+vain -> 2772
+vin -> 2772
+vina -> 2772
+5 words found in 2772 
+
+gus -> 2793
+1 words found in 2793 
+
+bandée -> 2800
+béant -> 2800
+bédane -> 2800
+datage -> 2800
+dégât -> 2800
+gâtât -> 2800
+pagaya -> 2800
+pagée -> 2800
+péage -> 2800
+9 words found in 2800 
+
+alarma -> 2808
+amblai -> 2808
+blâmai -> 2808
+calambac -> 2808
+camard -> 2808
+mâchai -> 2808
+mixa -> 2808
+7 words found in 2808 
+
+kappa -> 2816
+1 words found in 2816 
+
+accoua -> 2835
+caïeu -> 2835
+cocu -> 2835
+couac -> 2835
+oui -> 2835
+ouï -> 2835
+6 words found in 2835 
+
+besace -> 2850
+fées -> 2850
+sébacé -> 2850
+soja -> 2850
+4 words found in 2850 
+
+avez -> 2860
+1 words found in 2860 
+
+adhéra -> 2880
+allât -> 2880
+bardât -> 2880
+bâtard -> 2880
+bradât -> 2880
+capela -> 2880
+chable -> 2880
+chablé -> 2880
+clape -> 2880
+clapé -> 2880
+dalle -> 2880
+dallé -> 2880
+débarda -> 2880
+fâchât -> 2880
+faxât -> 2880
+habit -> 2880
+habita -> 2880
+hadji -> 2880
+harde -> 2880
+hardé -> 2880
+hart -> 2880
+hocha -> 2880
+paît -> 2880
+palace -> 2880
+pâtai -> 2880
+pâti -> 2880
+pied -> 2880
+place -> 2880
+placé -> 2880
+tabard -> 2880
+talla -> 2880
+tapai -> 2880
+tapi -> 2880
+33 words found in 2880 
+
+panama -> 2912
+1 words found in 2912 
+
+cracra -> 2916
+farci -> 2916
+fric -> 2916
+rira -> 2916
+4 words found in 2916 
+
+aimée -> 2925
+émie -> 2925
+émié -> 2925
+3 words found in 2925 
+
+gavas -> 2926
+kans -> 2926
+2 words found in 2926 
+
+ânon -> 2940
+canne -> 2940
+canné -> 2940
+dague -> 2940
+dagué -> 2940
+encan -> 2940
+fagne -> 2940
+fanage -> 2940
+fange -> 2940
+gaude -> 2940
+non -> 2940
+11 words found in 2940 
+
+lamas -> 2964
+smala -> 2964
+2 words found in 2964 
+
+kief -> 2970
+vice -> 2970
+2 words found in 2970 
+
+balaye -> 3000
+balayé -> 3000
+becte -> 3000
+becté -> 3000
+bêlée -> 3000
+bote -> 3000
+fête -> 3000
+fêté -> 3000
+jacte -> 3000
+jota -> 3000
+10 words found in 3000 
+
+
+2354 words found between 1 and 3000
+383 years have their words
+2160 is the winner year with 55 words !
+time :  145.491524935 s
