@@ -17,6 +17,11 @@ def evalWord(word):
 		ret *= ord(letter.lower()) - ord('a') + 1
 	return ret
 
+def printL(l):
+	str = ""
+	for i in l:
+		str += i + ", "
+	print str[0:-2]
 
 #####################
 #      Main         #
@@ -47,12 +52,14 @@ nbrOfYearWithResult = 0
 #seach in evalList
 for year in xrange(start, end + 1):
 	count = 0
+	to_print=[]
 	for tuple in evalList:
 		if tuple[1] == year:
-			print tuple[0], '->', tuple[1]
+			to_print.append(str(tuple[0]));
 			count +=1
 	if count > 0:
-		print count, "words found in", year, "\n"
+		print "\n", year, ",", count, "words found:"
+		printL(to_print)
 		total += count
 		nbrOfYearWithResult += 1
 		if count > max[1]:
